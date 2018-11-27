@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<calendar>
+    <event date="16062018 13:49">Nazwa wydarzenia A</event>
+    <event date="23112017 12:21">Nazwa wydarzenia B</event>
+    <event date="30012018 12:30">ololo</event>
+        <guest name="Piotrek" email="piotrek@piotrek,com"/>
+        <guest name="Tomek" email="tomektomek@piotrek.com"/>
+</calendar>
